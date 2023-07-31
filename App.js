@@ -1,0 +1,14 @@
+import logo from './logo.svg';
+import './App.css';
+import Cal from './Components/Calci';
+import Calci from './Components/Calci';
+
+function App() {
+  return (
+    <div className="App">
+      <Calci />
+    </div>
+  );
+}
+
+export default App;
